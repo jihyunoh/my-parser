@@ -14,5 +14,12 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+   <dependency>
+	<groupId>org.apache.tika</groupId>
+	<artifactId>tika-app</artifactId>
+	<version>1.7</version>
+   </dependency>
+
   </dependencies>
+
 </project>
